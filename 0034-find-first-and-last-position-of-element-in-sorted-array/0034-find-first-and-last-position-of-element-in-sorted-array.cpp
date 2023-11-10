@@ -3,14 +3,11 @@ public:
     vector<int> searchRange(vector<int>& nums, int target) {
         vector<int> res = {-1, -1};
         bool findStartIndex;
-        int startIndex = search(nums, target, true);
-        int endIndex = search(nums, target, false);
-
-        res[0] = startIndex;
-        res[1] = endIndex;
-
+        res[0] = search(nums, target, true);
+        if (res[0] != -1) {
+            res[1] = search(nums, target, false);
+        }
         return res;
-
     }
 
     int search(vector<int> nums, int target, bool findStartIndex) {
