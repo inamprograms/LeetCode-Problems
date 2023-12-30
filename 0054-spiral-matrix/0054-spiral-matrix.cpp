@@ -9,8 +9,9 @@ public:
         
         while (left < right && top < buttom) {
             
+// [[2,5,8],[4,0,-1]]
                 for (int i = left; i < right; i++) {
-                    res.push_back(matrix[top][i]);//left
+                    res.push_back(matrix[top][i]);
                 }
                 top++;
                 
