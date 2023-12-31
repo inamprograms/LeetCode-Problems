@@ -2,19 +2,19 @@ class Solution {
 public:
     vector<int> buildArray(vector<int>& nums) {
         int len = nums.size();
-        
-        vector<int> ans(len);
-        
         int i = 0;
         while (i < len) {
-            
-            int num = nums[i];
-            int val = nums[num];
-            ans[i] = val;
-            
+            nums[i] = nums[i] + (len * (nums[nums[i]] % len));
             i++;
         }
-        return ans;
+        
+        i = 0;
+        while (i < len) {
+            nums[i] /= len;
+            i++;
+        }
+        return nums;
     }
     
 };
+
