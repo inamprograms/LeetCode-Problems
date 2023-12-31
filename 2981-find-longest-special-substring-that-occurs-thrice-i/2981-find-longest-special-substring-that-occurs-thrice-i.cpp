@@ -1,24 +1,26 @@
 class Solution {
 public:
     int maximumLength(string s) {
-        unordered_map<string, int> map;
-        int n = s.size();
-        
-        for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
-                string str = s.substr(i, j - i + 1);
-                
-                map[str]++;
-            }
-        }
+        unordered_map<char, vector<int>> map;
         int res = -1;
-        for (auto [k, v] : map) {
-          
-            if (set(k.begin(), k.end()).size() == 1 && v >= 3) {
-                res = max(res, int(k.size()) );
+        for (int i = 0, j; i < s.size(); i=j) {
+            
+            for (j = i; j < s.size() && s[i] == s[j]; j++) {
+                map[s[i]].push_back(j - i + 1);
+                
+                sort(map[s[i]].begin(), map[s[i]].end(), greater());
+                
+                if (map[s[i]].size() > 3) {
+                    map[s[i]].resize(3);
+                }
+                
+                if (map[s[i]].size() == 3) {
+                    res = max(res, map[s[i]].back());
+                }
             }
         }
         
         return res;
+        
     }
 };
