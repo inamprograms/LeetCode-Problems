@@ -4,7 +4,7 @@ public:
         int count = 0;
         
         for (int n: nums) {
-            count += (n % 2) == 0;
+            count += !(n & 1);
         }
         
         return count >= 2;
