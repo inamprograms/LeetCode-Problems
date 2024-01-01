@@ -1,43 +1,51 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        vector<pair<int, int>> zeros;
+       
+        int rows = matrix.size(), cols = matrix[0].size();
+        bool rowZero = false;
         
-        for (int row = 0; row < matrix.size(); row++) {
-            for (int col = 0; col < matrix[row].size(); col++) {
-                if (matrix[row][col] == 0) {
-                    zeros.push_back({row, col});
-                } 
+        // finding which row or column need to be zero
+        for (int r = 0; r < rows; r++) {
+            for (int c = 0; c < cols; c++) {
+                
+                if (matrix[r][c] == 0) {
+                    
+                    matrix[0][c] = 0;
+                    
+                    if (r > 0) {
+                        matrix[r][0] = 0;
+                    } else {
+                        rowZero = true;
+                    }
+                    
+                }
             }
         }
         
-        for (auto z: zeros) {
-            int row = z.first, col = z.second;
-            
-            //set zeros to right
-            while (col < matrix[row].size()) {
-                matrix[row][col] = 0;
-                col++;
+        // set the zeros
+        
+        for (int r = 1; r < rows; r++) {
+            for (int c = 1; c < cols; c++) {
+                
+                // set cur element to zero if first row of cur column is 0 or if first col of cur row is 0
+                if (matrix[0][c] == 0 || matrix[r][0] == 0) {
+                    matrix[r][c] = 0;
+                }
             }
-            row = z.first, col = z.second;
-            //set zeros to down
-            while (row < matrix.size()) {
-                matrix[row][col] = 0;
-                row++;
+        }
+        
+        // set first col zero if matrix[0][0] == 0
+        if (matrix[0][0] == 0) {
+            for (int r = 0; r < rows; r++) {
+                matrix[r][0] = 0;
             }
-            
-            row = z.first, col = z.second;
-            // set zeros to upward
-            while (row >= 0) {
-                matrix[row][col] = 0;
-                row--;
-            }
-            
-            row = z.first, col = z.second;
-            // set zeros to left
-            while (col > -1) {
-                matrix[row][col] = 0;
-                col--;
+        }
+        
+        // set first row zero if rowZeros = true
+        if (rowZero) {
+            for (int c = 0; c < cols; c++) {
+                matrix[0][c] = 0;
             }
         }
     }
