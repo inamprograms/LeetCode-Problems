@@ -1,19 +1,32 @@
 class Solution {
 public:
     vector<int> shuffle(vector<int>& nums, int n) {
-        vector<int> res;
         
-        int x = 0, y = n;
-        
-        while (x < n) {
+        int y = n;
+        // storing x into y as pair
+        while (y < 2 *n) {
             
-            res.push_back(nums[x]);
-            res.push_back(nums[y]);
-            
-            x++;
+            nums[y] = (nums[y] * 1024) + nums[y - n];
+           
             y++;
+            
         }
         
-        return res;
+        
+        // shuffling the array
+        y = n;
+        int idx = 0;
+        while (y < 2*n) {
+            
+            int xnum = nums[y] % 1024;
+            int ynum = nums[y] / 1024;
+             
+            nums[idx] = xnum;
+            nums[idx + 1] = ynum;
+            
+            y++;
+            idx += 2;
+        }
+        return nums;
     }
 };
