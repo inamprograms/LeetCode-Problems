@@ -2,7 +2,7 @@ class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
         
-       int count = 0, curSum = 0;
+        int count = 0, curSum = 0;
         unordered_map<int, int> prefixSum;
         prefixSum[0] = 1;
         
@@ -11,9 +11,9 @@ public:
             curSum += nums[i];
             
             int diff = curSum - k;
-            if (prefixSum.find(diff) != prefixSum.end()) {
+            // if (prefixSum.find(diff) != prefixSum.end()) {
                 count += prefixSum[diff];
-            }
+            // }
             
             prefixSum[curSum]++;
             
