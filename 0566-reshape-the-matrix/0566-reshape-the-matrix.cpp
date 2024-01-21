@@ -11,19 +11,11 @@ public:
             return mat;
         }
         
-        for (int row = 0; row < rows; row++) {
-            for (int col = 0; col < cols; col++) {
-                temp.push_back(mat[row][col]);
-            }
+        for (int i = 0; i < r * c; i++) {
+              res[i / c][i % c] = mat[i / cols][i % cols];
         }
         
-        int k = 0;
-        for (int row = 0; row < r; row++) {
-            for (int col = 0; col < c; col++ ){
-                res[row][col] = temp[k];
-                k++;
-            }
-        }
+      
         return res;
     }
 };
