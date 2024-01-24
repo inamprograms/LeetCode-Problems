@@ -1,7 +1,7 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-// 1. Find pivot
+        // 1. Find pivot
         int pivotIndex = getPivot(nums);
         // if we do not find the pivot it means array is not rotated 
         if (pivotIndex == -1) {
@@ -18,15 +18,6 @@ public:
         } 
         // target < nums[start]
         return binarySearch(nums, pivotIndex+1, nums.size()-1, target);
-
-         /* Use next 2 and 3 or above 2 only*/     
-// // 2. Binary search on first part of array (0-pivot)
-//         int res = binarySearch(nums, 0, pivotIndex, target);
-//         if (res  != -1) {
-//             return res;
-//         }
-// //3. if not found then search on second part of array (pivot+1, end)
-//         return binarySearch(nums, pivotIndex +1, nums.size()-1, target);
 
 }
 
@@ -46,6 +37,7 @@ public:
         }
         return -1;
     }
+ 
     int getPivot(vector<int> arr) {
         int start = 0;
         int end = arr.size()-1;
