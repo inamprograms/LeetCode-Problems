@@ -1,20 +1,29 @@
 class Solution {
 public:
-    vector<int> dailyTemperatures(vector<int>& temperatures) {
-        stack<pair<int,int>> stk;
-        int n = temperatures.size();
+    vector<int> dailyTemperatures(vector<int>& temp) {
+       stack<pair<int , int>> stk;
+        
+        int n = temp.size();
         vector<int> res(n);
-        for (int i = 0; i < n; i++){
-            int currTemp = temperatures[i];
-            int currDay = i;
-            while(!stk.empty() && currTemp > stk.top().second){
+        
+        for (int i = 0; i < n; i++) {
+            
+            int curDay = i; 
+            int curTemp = temp[i];
+            
+            while (!stk.empty() && curTemp > stk.top().second) {
+                int prevTemp = stk.top().second;
                 int prevDay = stk.top().first;
-                int prevTemp = stk.top().second; 
+                
                 stk.pop();
-                res[prevDay] = currDay - prevDay;
+                
+                res[prevDay]  = curDay - prevDay;
             }
-            stk.push({currDay, currTemp});
+            
+            stk.push({curDay, curTemp});
         }
         return res;
     }
+    
+    
 };
