@@ -1,8 +1,6 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-
-
         map<int, int> values;
         int diff;
        for (int i=0; i<nums.size(); i++)
@@ -14,6 +12,5 @@ public:
             values[nums[i]] = i;
         }
     return {};
-    
     }
 };
