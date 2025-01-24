@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/inamprograms/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0463-island-perimeter](https://github.com/inamprograms/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/inamprograms/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [1876-map-of-highest-peak](https://github.com/inamprograms/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/inamprograms/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/inamprograms/LeetCode-Problems/tree/master/0733-flood-fill) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/inamprograms/LeetCode-Problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
