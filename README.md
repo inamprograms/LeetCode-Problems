@@ -69,5 +69,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/inamprograms/LeetCode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [2448-count-number-of-bad-pairs](https://github.com/inamprograms/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/inamprograms/LeetCode-Problems/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
