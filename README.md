@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/inamprograms/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/inamprograms/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/inamprograms/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/inamprograms/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-optimal-partition-of-string](https://github.com/inamprograms/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/inamprograms/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/inamprograms/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
