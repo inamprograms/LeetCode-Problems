@@ -4,27 +4,25 @@ public:
 
         vector<int> vec;
         for (int i = 0; i < haystack.size(); i++) {
-            if (needle[0] == haystack[i]) vec.push_back(i);
-        }
+            if (needle[0] == haystack[i]) {
+                int it1 = 0;
+                int it2 = i;
+                bool flag = true;
 
-        for (auto first: vec) {
-            int it1 = first;
-            int it2 = 0;
-            bool flag = true;
-            while(it2 < needle.size()) {
-                if (haystack[it1] == needle[it2]) {
-                    it1++;
-                    it2++;
-                } else {
-                    flag = false;
-                    break;
+                while(it1 < needle.size()) {
+                    if (needle[it1] == haystack[it2]) {
+                        it1++;
+                        it2++;
+                    } else {
+                        flag = false;
+                        break;
+                    }
                 }
-            }
 
-            if (flag) {
-                return first;
+                if (flag) return i;
             }
         }
+
     return -1;
     }
 };
