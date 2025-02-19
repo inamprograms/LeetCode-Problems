@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/inamprograms/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [1603-running-sum-of-1d-array](https://github.com/inamprograms/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/inamprograms/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
+| [1829-maximum-units-on-a-truck](https://github.com/inamprograms/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1876-map-of-highest-peak](https://github.com/inamprograms/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/inamprograms/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/inamprograms/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1829-maximum-units-on-a-truck](https://github.com/inamprograms/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [2487-optimal-partition-of-string](https://github.com/inamprograms/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
 ## Two Pointers
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/inamprograms/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [1829-maximum-units-on-a-truck](https://github.com/inamprograms/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
