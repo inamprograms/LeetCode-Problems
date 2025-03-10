@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/inamprograms/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/inamprograms/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/inamprograms/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1829-maximum-units-on-a-truck](https://github.com/inamprograms/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/inamprograms/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
