@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/inamprograms/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/inamprograms/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/inamprograms/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/inamprograms/LeetCode-Problems/tree/master/0500-keyboard-row) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/inamprograms/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/inamprograms/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/inamprograms/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/inamprograms/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0926-find-and-replace-pattern](https://github.com/inamprograms/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/inamprograms/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/inamprograms/LeetCode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [2448-count-number-of-bad-pairs](https://github.com/inamprograms/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 ## Number Theory
