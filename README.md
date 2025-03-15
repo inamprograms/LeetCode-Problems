@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/inamprograms/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/inamprograms/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/inamprograms/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/inamprograms/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/inamprograms/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0926-find-and-replace-pattern](https://github.com/inamprograms/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/inamprograms/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/inamprograms/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/inamprograms/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/inamprograms/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/inamprograms/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String Matching
 |  |
@@ -129,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/inamprograms/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/inamprograms/LeetCode-Problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
