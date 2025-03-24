@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/inamprograms/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2350-find-closest-number-to-zero](https://github.com/inamprograms/LeetCode-Problems/tree/master/2350-find-closest-number-to-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/inamprograms/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2665-minimum-time-to-repair-cars](https://github.com/inamprograms/LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/inamprograms/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3429-special-array-i](https://github.com/inamprograms/LeetCode-Problems/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/inamprograms/LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/inamprograms/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2665-minimum-time-to-repair-cars](https://github.com/inamprograms/LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 ## Sliding Window
 |  |
 | ------- |
