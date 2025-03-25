@@ -1,44 +1,41 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        
+        int rows = matrix.size(), cols = matrix[0].size();
+        int size = rows * cols;
         vector<int> res;
+        int r = 0;
+        int c = 0;
+        int it = 0;
         
-        int left = 0, right = matrix[0].size();
-        int top = 0, buttom = matrix.size();
+        while (res.size() < rows * cols) {
         
-        while (left < right && top < buttom) {
+            for (int col = c; col < cols - it && res.size() < size; col++) {
+                res.push_back(matrix[r][col]);
+                c = col;
+            }
+        
+            for (int row = r + 1; row < rows - it && res.size() < size; row++) {
+                res.push_back(matrix[row][c]);
+                r = row;
+            }
+
+            for (int col = c - 1; col >= it && res.size() < size; col--) {
+                res.push_back(matrix[r][col]);
+                c = col;
+            }
             
-// [[2,5,8],[4,0,-1]]
-                for (int i = left; i < right; i++) {
-                    res.push_back(matrix[top][i]);
-                }
-                top++;
-                
-                for (int i = top; i < buttom; i++) {
-                    res.push_back(matrix[i][right - 1]);
-                }
-                right--;
-                
-                if (!(left < right && top < buttom)) {
-                    break;
-                }
-            
-                for (int i = right - 1; i >= left; i--) { 
-                    res.push_back(matrix[buttom - 1][i]);
-                }
-                buttom--;
-            
-                for (int i = buttom - 1; i >= top; i--) {
-                    res.push_back(matrix[i][left]);
-                }
-                left++;
+            for (int row = r - 1; row > it && res.size() < size; row--) {
+                res.push_back(matrix[row][c]);
+                r = row;
+            }
+
+            c = c + 1;
+            it = it + 1;
+
         }
+
         return res;
+        
     }
 };
-
-    
-    
-    
-    
