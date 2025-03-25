@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/inamprograms/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/inamprograms/LeetCode-Problems/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/inamprograms/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/inamprograms/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/inamprograms/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/inamprograms/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/inamprograms/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [1791-richest-customer-wealth](https://github.com/inamprograms/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/inamprograms/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/inamprograms/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/inamprograms/LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
