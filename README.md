@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/inamprograms/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/inamprograms/LeetCode-Problems/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/inamprograms/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/inamprograms/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/inamprograms/LeetCode-Problems/tree/master/0055-jump-game) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/inamprograms/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/inamprograms/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/inamprograms/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/inamprograms/LeetCode-Problems/tree/master/0733-flood-fill) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/inamprograms/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/inamprograms/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/inamprograms/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/inamprograms/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0383-ransom-note](https://github.com/inamprograms/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/inamprograms/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0926-find-and-replace-pattern](https://github.com/inamprograms/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
