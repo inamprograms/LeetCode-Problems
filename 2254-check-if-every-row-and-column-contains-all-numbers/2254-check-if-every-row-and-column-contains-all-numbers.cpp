@@ -3,26 +3,19 @@ public:
     bool checkValid(vector<vector<int>>& matrix) {
         int n = matrix.size();
 
-        set<int> nums;
-        for (auto row: matrix) {
-            for (auto num: row) {
-                nums.insert(num);
-            }
+        set<int> rows;
+        set<int> cols;
 
-            if (nums.size() != n) {
+        for (int row = 0; row < n; row++) {
+            for (int col = 0; col < n; col++) {
+                rows.insert(matrix[row][col]);
+                cols.insert(matrix[col][row]);
+            }
+            if (rows.size() != n || cols.size() != n) {
                 return false;
             }
-            nums = {};
-        }
-
-        for (int col = 0; col < n; col++) {
-            for (int row = 0; row < n; row++) {
-                nums.insert(matrix[row][col]);
-            }
-            if (nums.size() != n) {
-                return false;
-            }
-            nums = {};
+            rows = {};
+            cols = {};
         }
 
         return true;
