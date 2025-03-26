@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/inamprograms/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/inamprograms/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/inamprograms/LeetCode-Problems/tree/master/2145-grid-game) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/inamprograms/LeetCode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/inamprograms/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2350-find-closest-number-to-zero](https://github.com/inamprograms/LeetCode-Problems/tree/master/2350-find-closest-number-to-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/inamprograms/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/inamprograms/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/inamprograms/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/inamprograms/LeetCode-Problems/tree/master/2145-grid-game) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/inamprograms/LeetCode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/inamprograms/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0926-find-and-replace-pattern](https://github.com/inamprograms/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/inamprograms/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/inamprograms/LeetCode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/inamprograms/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/inamprograms/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/inamprograms/LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
