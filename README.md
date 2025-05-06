@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/inamprograms/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/inamprograms/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/inamprograms/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2048-build-array-from-permutation](https://github.com/inamprograms/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2145-grid-game](https://github.com/inamprograms/LeetCode-Problems/tree/master/2145-grid-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/inamprograms/LeetCode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/inamprograms/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/inamprograms/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [2048-build-array-from-permutation](https://github.com/inamprograms/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/inamprograms/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/inamprograms/LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
