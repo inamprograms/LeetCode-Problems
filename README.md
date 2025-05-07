@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/inamprograms/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/inamprograms/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [1500-count-largest-group](https://github.com/inamprograms/LeetCode-Problems/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/inamprograms/LeetCode-Problems/tree/master/1585-the-kth-factor-of-n) |
@@ -177,5 +178,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/inamprograms/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/inamprograms/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/inamprograms/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
