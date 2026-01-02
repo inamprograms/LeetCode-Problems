@@ -184,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/inamprograms/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/inamprograms/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/inamprograms/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
