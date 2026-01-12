@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/inamprograms/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/inamprograms/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0089-gray-code](https://github.com/inamprograms/LeetCode-Problems/tree/master/0089-gray-code) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/inamprograms/LeetCode-Problems/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1500-count-largest-group](https://github.com/inamprograms/LeetCode-Problems/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/inamprograms/LeetCode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [2448-count-number-of-bad-pairs](https://github.com/inamprograms/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -198,8 +199,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/inamprograms/LeetCode-Problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/inamprograms/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/inamprograms/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/inamprograms/LeetCode-Problems/tree/master/1238-circular-permutation-in-binary-representation) |
 ## Backtracking
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/inamprograms/LeetCode-Problems/tree/master/0089-gray-code) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/inamprograms/LeetCode-Problems/tree/master/1238-circular-permutation-in-binary-representation) |
 <!---LeetCode Topics End-->
