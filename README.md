@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/inamprograms/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0089-gray-code](https://github.com/inamprograms/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/inamprograms/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/inamprograms/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/inamprograms/LeetCode-Problems/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1500-count-largest-group](https://github.com/inamprograms/LeetCode-Problems/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/inamprograms/LeetCode-Problems/tree/master/1585-the-kth-factor-of-n) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/inamprograms/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/inamprograms/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/inamprograms/LeetCode-Problems/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/inamprograms/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/inamprograms/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/inamprograms/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/inamprograms/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/inamprograms/LeetCode-Problems/tree/master/1238-circular-permutation-in-binary-representation) |
 ## Backtracking
 |  |
