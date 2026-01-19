@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/inamprograms/LeetCode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/inamprograms/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2350-find-closest-number-to-zero](https://github.com/inamprograms/LeetCode-Problems/tree/master/2350-find-closest-number-to-zero) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/inamprograms/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2448-count-number-of-bad-pairs](https://github.com/inamprograms/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2665-minimum-time-to-repair-cars](https://github.com/inamprograms/LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/inamprograms/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/inamprograms/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/inamprograms/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/inamprograms/LeetCode-Problems/tree/master/1238-circular-permutation-in-binary-representation) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/inamprograms/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Backtracking
 |  |
 | ------- |
