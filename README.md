@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/inamprograms/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/inamprograms/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0733-flood-fill](https://github.com/inamprograms/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [0861-score-after-flipping-matrix](https://github.com/inamprograms/LeetCode-Problems/tree/master/0861-score-after-flipping-matrix) |
 | [0926-find-and-replace-pattern](https://github.com/inamprograms/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [1603-running-sum-of-1d-array](https://github.com/inamprograms/LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/inamprograms/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/inamprograms/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/inamprograms/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/inamprograms/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [0861-score-after-flipping-matrix](https://github.com/inamprograms/LeetCode-Problems/tree/master/0861-score-after-flipping-matrix) |
 | [1791-richest-customer-wealth](https://github.com/inamprograms/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/inamprograms/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/inamprograms/LeetCode-Problems/tree/master/2145-grid-game) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/inamprograms/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0861-score-after-flipping-matrix](https://github.com/inamprograms/LeetCode-Problems/tree/master/0861-score-after-flipping-matrix) |
 | [1829-maximum-units-on-a-truck](https://github.com/inamprograms/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [2487-optimal-partition-of-string](https://github.com/inamprograms/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
 ## Two Pointers
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/inamprograms/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/inamprograms/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/inamprograms/LeetCode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0861-score-after-flipping-matrix](https://github.com/inamprograms/LeetCode-Problems/tree/master/0861-score-after-flipping-matrix) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/inamprograms/LeetCode-Problems/tree/master/1238-circular-permutation-in-binary-representation) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/inamprograms/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Backtracking
