@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/inamprograms/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/inamprograms/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/inamprograms/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/inamprograms/LeetCode-Problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/inamprograms/LeetCode-Problems/tree/master/0136-single-number) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/inamprograms/LeetCode-Problems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/inamprograms/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/inamprograms/LeetCode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0137-single-number-ii) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/inamprograms/LeetCode-Problems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/inamprograms/LeetCode-Problems/tree/master/0089-gray-code) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/inamprograms/LeetCode-Problems/tree/master/1238-circular-permutation-in-binary-representation) |
 ## Trie
