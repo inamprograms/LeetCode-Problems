@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/inamprograms/LeetCode-Problems/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/inamprograms/LeetCode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [2448-count-number-of-bad-pairs](https://github.com/inamprograms/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/inamprograms/LeetCode-Problems/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Number Theory
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1238-circular-permutation-in-binary-representation](https://github.com/inamprograms/LeetCode-Problems/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/inamprograms/LeetCode-Problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/inamprograms/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/inamprograms/LeetCode-Problems/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Backtracking
 |  |
 | ------- |
