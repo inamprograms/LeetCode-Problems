@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/inamprograms/LeetCode-Problems/tree/master/0228-summary-ranges) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/inamprograms/LeetCode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0463-island-perimeter](https://github.com/inamprograms/LeetCode-Problems/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/inamprograms/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/inamprograms/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0733-flood-fill](https://github.com/inamprograms/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0861-score-after-flipping-matrix](https://github.com/inamprograms/LeetCode-Problems/tree/master/0861-score-after-flipping-matrix) |
