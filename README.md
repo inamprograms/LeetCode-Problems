@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/inamprograms/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0926-find-and-replace-pattern](https://github.com/inamprograms/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/inamprograms/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1763-longest-nice-substring](https://github.com/inamprograms/LeetCode-Problems/tree/master/1763-longest-nice-substring) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/inamprograms/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/inamprograms/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2487-optimal-partition-of-string](https://github.com/inamprograms/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/inamprograms/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0926-find-and-replace-pattern](https://github.com/inamprograms/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [1500-count-largest-group](https://github.com/inamprograms/LeetCode-Problems/tree/master/1500-count-largest-group) |
+| [1763-longest-nice-substring](https://github.com/inamprograms/LeetCode-Problems/tree/master/1763-longest-nice-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/inamprograms/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/inamprograms/LeetCode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/inamprograms/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/inamprograms/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [1763-longest-nice-substring](https://github.com/inamprograms/LeetCode-Problems/tree/master/1763-longest-nice-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/inamprograms/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/inamprograms/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
+| [1763-longest-nice-substring](https://github.com/inamprograms/LeetCode-Problems/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/inamprograms/LeetCode-Problems/tree/master/0861-score-after-flipping-matrix) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/inamprograms/LeetCode-Problems/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/inamprograms/LeetCode-Problems/tree/master/1310-xor-queries-of-a-subarray) |
+| [1763-longest-nice-substring](https://github.com/inamprograms/LeetCode-Problems/tree/master/1763-longest-nice-substring) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/inamprograms/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/inamprograms/LeetCode-Problems/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Backtracking
