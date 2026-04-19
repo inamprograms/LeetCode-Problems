@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/inamprograms/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/inamprograms/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/inamprograms/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/inamprograms/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/inamprograms/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/inamprograms/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0926-find-and-replace-pattern](https://github.com/inamprograms/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/inamprograms/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/inamprograms/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/inamprograms/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/inamprograms/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/inamprograms/LeetCode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0500-keyboard-row](https://github.com/inamprograms/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0926-find-and-replace-pattern](https://github.com/inamprograms/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/inamprograms/LeetCode-Problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/inamprograms/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0389-find-the-difference](https://github.com/inamprograms/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [1829-maximum-units-on-a-truck](https://github.com/inamprograms/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/inamprograms/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/inamprograms/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/inamprograms/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/inamprograms/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/inamprograms/LeetCode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0861-score-after-flipping-matrix](https://github.com/inamprograms/LeetCode-Problems/tree/master/0861-score-after-flipping-matrix) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/inamprograms/LeetCode-Problems/tree/master/1238-circular-permutation-in-binary-representation) |
